@@ -1,0 +1,5 @@
+{
+  "name": "CrestPoint AI Video",
+  "description": "Professional text-to-video studio using Gemini for storyboarding and Veo 3 for high-quality video generation.",
+  "requestFramePermissions": []
+}
